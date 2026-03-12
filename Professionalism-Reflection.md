@@ -24,7 +24,7 @@
 
 **What would it look like to be proactive during your internship?**
 
-I will apply the Recommendation-First mindset to shift from being a passive task-taker to a proactive designer. Instead of asking open-ended questions like 'What do I do now?', which puts the burden of thinking on the supervisor, I will provide a clear path forward. I will use a specific formula for updates (Status + Proposed Action + Validation) to demonstrate that I am thinking ahead and fully understand the project’s goals.
+    I will apply the Recommendation-First mindset to shift from being a passive task-taker to a proactive designer. Instead of asking open-ended questions like 'What do I do now?', which puts the burden of thinking on the supervisor, I will provide a clear path forward. I will use a specific formula for updates (Status + Proposed Action + Validation) to demonstrate that I am thinking ahead and fully understand the project’s goals.
 
 **How might you follow up with colleagues or supervisors if you need information/action from them? How would you escalate it further if you don't get a response and when would you escalate?**
 
