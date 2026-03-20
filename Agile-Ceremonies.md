@@ -12,8 +12,4 @@
 
 ## Task
 
-**Attend a stand-up meeting and observe how updates are shared.**
-
-**Participate in a retrospective or review past notes from one.**
-
 **Document one change you can make to improve your team collaboration.**
