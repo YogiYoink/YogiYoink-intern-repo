@@ -13,3 +13,5 @@
 ## Task
 
 **Document one change you can make to improve your team collaboration.**
+
+    One change I can make to improve team collaboration is to proactively share my design work and seek feedback from cross-functional team members early and often. This means not waiting until a design is perfect before sharing it, but rather treating it as a living document that can evolve based on input from developers, product managers, and other stakeholders. This way, I can catch potential issues early, ensure that my designs are feasible and aligned with technical constraints.
