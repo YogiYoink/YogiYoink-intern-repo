@@ -10,14 +10,38 @@
 
     I can improve my workflow by implementing a Kanban board to track my tasks and their progress. This will allow me to visualize my work, identify any bottlenecks, and prioritize tasks more effectively. I can create a specific "Ready for Dev" column to ensure developers know exactly which prototypes are finalized. I can also set WIP limits to ensure that I am not taking on too many tasks at once, and avoid jumping between multiple screen designs, which often leads to inconsistent UI elements. Moreover, I can regularly review and update my Kanban board to reflect changes in priorities and ensure that I am always working on the most important tasks. Lastly, I can use a "Blocked" column to highlight when I am waiting for stakeholder feedback or specific data points, rather than letting those tasks sit idly in "In Progress."
 
-## Task
+## Kanban Board
 
-**Create a kanban board for your repo with relevant columns (e.g. not started, in progress, ready for review, approved by bot)**
-
-
-
-**Move at least one task through the Kanban process and update its status correctly.**
-
-
+| **Not Started**                                                  | **In Progress**                                                    | **Ready for Review**              | **Approved by Bot**                                                   |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------- | --------------------------------------------------------------------- |
+| Iterating Based on User Feedback & Product Constraints (**#15**) | Learn How to Use Google Docs for UX Documentation (**#37**)        | Agile Workflows & Kanban (**#3**) | Plan your schedule and start recording time logs (**#1**)             |
+| How to Use UX Metrics to Measure Success (**#16**)               | Try out the Focus Bear app (**#43**)                               |                                   | Agile Ceremonies & Team Collaboration (**#2**)                        |
+| Working with PMs to Prioritize UX Work (**#17**)                 | Conduct a Usability Test with a Friend & Report Findings (**#28**) |                                   | Roles in an Agile Team (**#4**)                                       |
+| Conducting Design QA Before Release (**#18**)                    | Testing & Iterating on Prototypes (**#22**)                        |                                   | Working in an Agile Team (**#5**)                                     |
+| Handling Design Constraints & Technical Feasibility (**#19**)    |                                                                    |                                   | Join Discord (**#6**)                                                 |
+| Preparing a Developer Handoff in Figma (**#20**)                 |                                                                    |                                   | Fill out onboarding survey (**#7**)                                   |
+| How to Run a Design Kickoff with Developers (**#21**)            |                                                                    |                                   | Cyber Security (**#8**)                                               |
+| Creating a High-Fidelity Prototype (**#23**)                     |                                                                    |                                   | Use of AI Tools (**#9**)                                              |
+| Creating a Clickable Prototype in Figma (**#24**)                |                                                                    |                                   | Creating Your "User Manual for Me" (**#10**)                          |
+| Creating Low-Fidelity Wireframes (**#25**)                       |                                                                    |                                   | Working with Vulnerable Populations (**#11**)                         |
+| Introduction to Wireframing & When to Use It (**#27**)           |                                                                    |                                   | Professionalism at Focus Bear (**#12**)                               |
+|                                                                  |                                                                    |                                   | Data Privacy & Confidentiality (**#13**)                              |
+|                                                                  |                                                                    |                                   | Occupational Health & Safety (OHS) for Desk-Based Work (**#14**)      |
+|                                                                  |                                                                    |                                   | How to Give and Receive Design Critique (**#26**)                     |
+|                                                                  |                                                                    |                                   | How to Conduct User Interviews & Usability Testing (**#29**)          |
+|                                                                  |                                                                    |                                   | Interpreting User Feedback & Usability Testing Insights (**#30**)     |
+|                                                                  |                                                                    |                                   | How UX Research Informs Design Decisions (**#31**)                    |
+|                                                                  |                                                                    |                                   | Introduction to UX Research Methods (**#32**)                         |
+|                                                                  |                                                                    |                                   | Key UX Challenges & Considerations for Neurodivergent Users (**#33**) |
+|                                                                  |                                                                    |                                   | How UX Works with Other Teams (**#34**)                               |
+|                                                                  |                                                                    |                                   | Design Principles at Focus Bear (**#35**)                             |
+|                                                                  |                                                                    |                                   | How UX Contributes to Focus Bear’s Mission (**#36**)                  |
+|                                                                  |                                                                    |                                   | Get Familiar with Figma for UI/UX Design (**#38**)                    |
+|                                                                  |                                                                    |                                   | Get access to Discord (**#39**)                                       |
+|                                                                  |                                                                    |                                   | Understanding of Focus Bear's mission and vision (**#40**)            |
+|                                                                  |                                                                    |                                   | Set your learning goals (**#41**)                                     |
+|                                                                  |                                                                    |                                   | Understand competitive landscape (**#42**)                            |
 
 **Identify one way you can improve task tracking in your role.**
+
+    I will start adding "Definition of Done" (DoD) checklists to each task card. For a UX task, this might include: "1. Accessible color contrast checked, 2. Mobile view prototyped, 3. Handoff notes added for Devs." This prevents me from moving a task to "Ready for Review" too early and saves the team time during the feedback loop. By having a clear DoD, I can ensure that each task is fully complete and meets the necessary criteria before it moves forward in the workflow. This will help improve the quality of my work and reduce the chances of tasks being sent back for revisions, ultimately making the entire process more efficient.
